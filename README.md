@@ -16,8 +16,7 @@ To access this project on your local files, you can clone it using these steps
 1. HTML
 1. CSS
 1. Git
-1. Bootstrap
 ### Live Site
-View [live](https://hamida-mstafa.github.io/fev-band/)
+View [live](https://mercy-maloba.github.io/)
 ### Licence
 This project is under the  [MIT](LICENSE) license
