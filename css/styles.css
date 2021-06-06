@@ -21,3 +21,8 @@ body {
     width: 300px;
     float: none;
     height: auto;
+  }
+.align
+{
+    text-align: center;
+}
