@@ -29,10 +29,14 @@ body {
     text-decoration: cyan;
 }
 .textbox{
-  border: 2px solid rgb(24, 78, 196);
+  border: opx solid rgb(24, 78, 196);
   padding: 6px;
   margin: 20px;
   background-color: rgb(230, 104, 21);
   float: left;
   width: 450px;
+
+}
+.about{
+    display: initial;
 }
