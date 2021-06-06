@@ -5,3 +5,18 @@ body {
   h1 {
     background-color: lightblue;
   }
+  .centre {
+      font-size: larger;
+      font-style: normal;
+      color: brown;
+      float: right;
+  }
+  .jomo {
+      color: chocolate;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
