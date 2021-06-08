@@ -34,9 +34,15 @@ body {
   margin: 20px;
   background-color: rgb(230, 104, 21);
   float: left;
-  width: 450px;
+  width:90%;
 
 }
 .about{
-    display: initial;
+    display:inline-table;
+    border: opx solid rgb(24, 78, 196);
+  padding: 6px;
+  margin: 20px;
+  background-color: rgb(250, 248, 246);
+  float: left;
+  width:90%;
 }
